@@ -1,2 +1,3 @@
 # hello-world
-first git repository
+first git repository<br>
+engineering designer extraordinaire
